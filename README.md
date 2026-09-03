@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NONREDOX
+- 👋 Hi, I’m Siam Hossain
 - 👀 I’m interested in Html,Travelling,C,Python And Java.
-- 🌱 I’m currently learning Html, CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a guy who can teach me.
-- 📫 How to reach me fb https://www.facebook.com/NrX.NaimX28
+- 📫 How to reach me https://www.facebook.com/SiamHossain.Naim/
+- 
 
 <!---
 NONREDOX/NONREDOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
